@@ -17,4 +17,4 @@ This challenge is designed to show my ability in using the D3 library within Jav
 (6.) Update all the plots when a new sample is selected.
 
 ## View APP
-
+[Static Page](https://csteeves.github.io/belly-button-challenge/)
